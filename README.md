@@ -6,4 +6,4 @@ Space - Jump
 Ctrl - Shoot  
 
 # Screenshot  
-![screenshot1](doc/screenshot.png)
+![screenshot1](docs/screenshot.png)
