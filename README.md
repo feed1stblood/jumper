@@ -5,5 +5,8 @@ This is a mini game based on Unity3D. Basically you should jump to avoid top, bo
 Space - Jump  
 Ctrl - Shoot  
 
-# Screenshot  
+# Development Kit  
+Unity 4.2 with MonoDevelop
+
+# Screenshot  
 ![screenshot1](docs/screenshot.png)
